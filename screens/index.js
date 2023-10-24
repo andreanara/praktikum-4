@@ -1,4 +1,4 @@
-import LotsOfStyles from "./LotsOffStyles";
+import LotsOfStyles from "./LotsOfStyles";
 import FixedDimensionsBasics from "./FixedDimensionsBasics";
 import FlexDimensionsBasics from "./FlexDimensionsBasics";
 import PercentageDimensionsBasics from "./PercentageDimensionBasics";
@@ -10,6 +10,7 @@ import WidthHeightBasics from "./WidthHeightBasics";
 import PositionLayout from "./PositionLayout";
 import DisplayAnImageWithStyle from "./DisplayAnImageWithStyle";
 import NativeBaseBasic from "./NativeBaseBasic";
+import GlueStackUIBasic from "./GlueStackUIBasic";
 
 export {
   LotsOfStyles,
@@ -24,6 +25,9 @@ export {
   PositionLayout,
   DisplayAnImageWithStyle,
   NativeBaseBasic,
+  GlueStackUIBasic,
 };
+
+
 
 
